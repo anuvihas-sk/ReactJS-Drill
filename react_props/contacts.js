@@ -6,7 +6,6 @@ const contacts = [
     phone: "+123 456 789",
     email: "b@beyonce.com"
   },
-  
   {
     name: "Jack Bauer",
     imgURL:
